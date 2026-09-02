@@ -1,0 +1,12 @@
+# 실사 원본 사진 — 저장소에 올리지 않음
+KakaoTalk_Photo_*.jpeg
+KakaoTalk_Photo_*.jpg
+
+# 실사 얼굴 레퍼런스 콜라주 / 탈락 시안
+character-sheet/_refs/
+character-sheet/_rejects/
+
+# 작업 부산물
+.DS_Store
+.venv/
+codex-images/
